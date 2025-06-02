@@ -1,5 +1,5 @@
 # TheSHY-3D
-This is the offical code of 
+This is the official code of 
 
 [Paper: TheSHY-3D](https://ieeexplore.ieee.org/document/10888954) - Texture and Structure HarmonY for Multi-View 3D Object Detection 
 
